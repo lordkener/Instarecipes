@@ -1,6 +1,6 @@
 {
     "/api/*": {
-        "target": "http://localhost:8443",
+        "target": "https://instarecipes.onrender.com/",
         "secure": false,
         "logLevel": "debug",
         "changeOrigin": true
